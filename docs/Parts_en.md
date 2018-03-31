@@ -7,7 +7,7 @@ Following parts are required:
 - plastic cylinder `Petling` [Petling-XL](http://cachers-world.de/de/Petling-XL)
 > The provider [cachers-world.de](http://cachers-world.de/de/Petling-XL) supports this project by providing the appropriate petling in the long term and using the coupon code "` HOBBYBRAUER` "( Capitalization!) 20% discount granted.
 This [Petling-XL](http://cachers-world.de/de/Petling-XL) fits the 3D printed sled.
-
+Update: March 31, 2018: THIS COUPON DOES NOT WORK ANYMORE
 ***
 
 ### drawer
